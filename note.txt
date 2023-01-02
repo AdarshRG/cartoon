@@ -1,0 +1,26 @@
+git and github
+git:-
+vcm-version control system
+scm-software configration management
+
+remote reposatry-everyone can access 
+local reposatry-our project in our system
+
+push-local reposatryto remote reposatry-uploading new projects or changes
+clone-remote reposatryto local reposatry-downloading exact copy
+pull-remote reposatryto local reposatry-downloading only changes
+
+cmd--
+git init--to initislize git in cmd(local storage)
+git add . --add to stagging area
+(git status--to know the status of uploading files)Not a step
+git commit -m"initial commit" --to commit to locL reposatry(CAN ME ANY MSG INSIDE THE QUOTES)
+git remote -v --to check whether remote reposatryis added or not 
+git remote add x 'copy the git link here'
+git push -u x master --to pushto rmote reposatry
+
+clone--
+git clone 'link which is copied from github'
+
+for hosting--
+sttings---pages(on aside)---branch-- fromm none to master---save
